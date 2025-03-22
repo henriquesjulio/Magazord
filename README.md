@@ -33,6 +33,11 @@ CREATE TABLE agregada(id_cliente INT PRIMARY KEY, receita_total DECIMAL(18,2), n
 ```
 
 # 🛠️ Instalação de Dependências
+
+Instalar JDK 8 no mínimo.
+
+Instalar Hadoop Spark
+
 Instalar JDBC Driver do PostgreSQL:
 
 Baixar postgresql-42.7.5.jar
